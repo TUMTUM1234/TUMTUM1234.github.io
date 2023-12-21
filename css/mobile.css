@@ -1,0 +1,16 @@
+@media screen and (max-width: 768px) {
+  .navigation {
+    flex-direction: column;
+  }
+  .certi {
+    border-left: 0;
+    border-top: 1px solid #d6c08d;
+  }
+  #project {
+    gap: 20px;
+  }
+  .contact li {
+    margin-right: 10px;
+    font-size: 100%;
+  }
+}
